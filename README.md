@@ -1,4 +1,4 @@
-## Task 5 – Exploratory Data Analysis (Titanic Dataset)
+## Task 5 – Exploratory Data Analysis (Elevate Labs Internship)
 
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset using Python, Pandas, Matplotlib, and Seaborn.
 
